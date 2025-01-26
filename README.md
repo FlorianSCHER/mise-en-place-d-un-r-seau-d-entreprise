@@ -69,8 +69,7 @@ Cependant, la **partie configuration des services sur la VM** n’a pas encore �
 
 ## 🤝 Contributions  
 
-Les contributions sont les bienvenues !  
-Si vous avez des suggestions ou des améliorations, n’hésitez pas à ouvrir une issue ou à soumettre une pull request.  
+Projet réalisé avec 4 autres étudiants qui souhaite resté anonyme.
 
 ---
 
@@ -79,4 +78,6 @@ Si vous avez des suggestions ou des améliorations, n’hésitez pas à ouvrir u
 Pour toute question ou assistance, veuillez contacter :  
 - **Nom** : SCHER Florian
 - **Email** : florian.scher.pro@gmail.com  
-- **LinkedIn** : 
+- **LinkedIn** : www.linkedin.com/in/florian-scher-818925337
+
+
